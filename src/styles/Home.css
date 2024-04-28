@@ -1,0 +1,65 @@
+body{
+    background-color: black;
+    margin: 0;
+    padding: 0;
+}
+
+.Semaforo{
+    display:flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+
+    margin-top: 250px;
+}
+
+
+.Suport{
+    width: 10px;
+    height: 150px;
+    background-color: yellow;
+    border: 2px Solid white;  
+}
+
+
+.Semaforo__body{
+    width: 120px;
+    height: 350px;
+    background-color: yellow;
+    border: 2px Solid white;
+    margin: 0 auto;
+    border-radiuS: 20px;
+}
+
+
+.Semaforo__circle1{
+    width: 60px;
+    height: 100px;
+    border-radius: 100%;
+    background-color: red;
+    margin: 15px 0 5px 30px;
+    
+}
+
+.Semaforo__circle2{
+    width: 60px;
+    height: 100px;
+    border-radius: 100%;
+    background-color: orange;
+    margin-left: 30px;
+    margin-bottom: 5px;
+}
+
+.Semaforo__circle3{
+    width: 60px;
+    height: 100px;
+    border-radius: 100%;
+    background-color: green;
+    margin-left: 30px;
+    margin-bottom: 5px;
+}
+
+.Light{
+    box-shadow: 0 0 60px 40px rgb(245, 180, 0)
+}
+

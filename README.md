@@ -1,3 +1,11 @@
+![image](https://github.com/JhojanBinary/Traffic-Light/assets/102551448/455478a4-b885-4245-8dd8-0c168b18b660)
+
+
+![image](https://github.com/JhojanBinary/Traffic-Light/assets/102551448/9f2ff0cd-12be-471f-bcff-8fa8705d1b9c)
+
+
+
+
 # Hello World with React boilerplate
 
 Start coding a react application
